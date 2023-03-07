@@ -1,0 +1,28 @@
+{
+  "opciones": [
+    {
+      "nserie": "8F3K6D9G2H",
+      "marca": "Wavecontrol",
+      "modelo": "Control +",
+      "fecha": "25/05/2021"
+    },
+    {
+      "nserie": "5L7J2N6M1P",
+      "marca": "NARDA",
+      "modelo": "Modelo 2",
+      "fecha": "23/03/2022"
+    },
+    {
+      "nserie": "9Q2B8F1K6D",
+      "marca": "NARDA",
+      "modelo": "Modelo 3",
+      "fecha": "12/08/2022"
+    },
+    {
+      "nserie": "4G6H9J5L2N",
+      "marca": "WAVECONTROL",
+      "modelo": "Extra Control Plus +",
+      "fecha": "09/08/2023"
+    }
+  ]
+}
